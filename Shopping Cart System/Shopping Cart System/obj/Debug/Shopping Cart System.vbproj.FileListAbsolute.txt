@@ -1,0 +1,15 @@
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.exe.config
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.exe
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.pdb
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.xml
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.vbprojAssemblyReference.cache
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.AudioBooksForm.resources
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.MainForm.resources
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.Resources.resources
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.PrintBooksForm.resources
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.vbproj.GenerateResource.cache
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.vbproj.CoreCompileInputs.cache
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.exe
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.xml
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.pdb
+C:\Users\linm4\source\repos\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.AboutForm.resources
